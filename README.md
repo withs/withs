@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on -> 670
+- 🔭 I’m currently working on -> 670 / My temp mail service
 - 🌱 I’m currently learning -> Nothing Ofc
 - 👯 I’m looking to collaborate on -> Nothing Ofc
 - 🤔 I’m looking for help with -> Nothing
