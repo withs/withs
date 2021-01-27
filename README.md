@@ -4,7 +4,7 @@
 — **I’m currently working on -**>
 > **[TTLM](http://m.shib.cc/)** (*My temp mail service*) and **[670](https://670.ink/)** (*Bot/tool for this private server*).
 
-— **Im would like to Learn** ->
+— **Im would like to Learn / Im learning** ->
 > Keep learning new **python** thing (*my main language for the moment*), **c++**, **swift**, **c** (*the order is important ^^*)
 
 — **Contact me** ->
