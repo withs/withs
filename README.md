@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 — **I’m currently working on -**>
-> **[TTLM](http://m.shib.cc/)** (*My temp mail service*) and **[670](https://670.ink/)** (*Bot/tool for this private server*).
+> **[TTLM](http://m.shib.cc/)** (*My temp mail service*) and **[fleur bot](https://github.com/aielove/fleur-s-bots)** (*My personal bot with my feature i need and where i try new python thing*).
 
 — **Im learning / Im would like to Learn** ->
 > Keep learning new **python** thing (*my main language for the moment*) / **c++**, **swift**, **c** (*the order is important ^^*)
