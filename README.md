@@ -7,4 +7,4 @@
 > Im currently learning **swift** and stilllearning new **python** thing (*my main language for the moment*) / **c**, **c++**, (*the order is important ^^*)
 
 — **Contact me** ->
-> You can contatc me by mail (*contact@shib.cc*), but mainly on discord (***fleur#2849***)
+> You can contact me by mail (*contact@shib.cc*), but mainly on discord (***fleur#2849***)
