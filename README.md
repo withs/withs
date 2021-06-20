@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 — **I’m currently working on -**>
-> **[Mahana](https://github.com/aielove/mahana)** (*Temperature and courrant censor web monitoring for my dad job*) and **[fleur bot](https://github.com/aielove/fleur-s-bots)** (*My personal bot with my needed feature and where i try new python thing*). And you can find **[My gist](https://gist.github.com/aielove)** for little thing.
+> making small things for daily use or little project as **[Mahana](https://github.com/aielove/sequoia)** :)
 
 — **Im learning / Im would like to Learn** ->
 > Im currently learning **swift** and still learning new **python** things (*my main language for the moment*) / **c**, **c++**, (*the order is important ^^*)
