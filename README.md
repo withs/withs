@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 — **I’m currently working on -**>
-> making small things for daily use or little project such as **[leaf](https://github.com/aielove/sequoia)** :) you can also take a look at my **[gists](https://gist.github.com/withs)** 
+> making small things for daily use or little project such as **[leaf](https://github.com/withs/leaf)** :) you can also take a look at my **[gists](https://gist.github.com/withs)** 
 
 — **Im learning / Im would like to Learn** ->
 > Im currently learning **swift**, **c++** and still learning new **python** things (*my main language for the moment*) / **c**,
