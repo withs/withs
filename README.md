@@ -7,4 +7,4 @@
 > Im currently learning **c++** and **reverse engineering**, still learning **swift** and **python**
 
 — **Contact me** ->
-> You can contact me by mail (*contact@fleur.is*), but mainly on discord (***fleur#2849***)
+> You can contact me by mail (*contact@fleur.is*), or see my contact section on my site **[contacts](https://fleur.is)**
