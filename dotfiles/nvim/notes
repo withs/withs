@@ -1,0 +1,66 @@
+<leader> = space
+c- = ctrl+key
+
+binds:
+<leader>t = open neotree
+<leader>gt = focus neotree
+<leader>tr = toggle term
+<leader>ot = toggle outline
+
+Help:
+
+dd = delete line
+yy = copy line
+p = paste
+
+<< = unindent
+shift->> = indent
+
+$ = end of line
+0 = go to begining of line
+
+s = lightspeed moove bottom
+S = lightspeed moove top
+
+/ = start a search
+n = next
+N = previous
+s/<text to search>/<text to replace> = search and replace
+/<junk> = cancel search highlight
+
+c-w delete left word
+shift-* highlight word under |
+
+no-tree:
+a = create file
+d = delete
+s = open in finder
+r = rename
+f = filter
+
+split:
+
+c-w-s = split horizontaly
+c-w-v = split verticaly
+c-w-w = change to next windows
+c-w-= = ajust equaly window sizes
+
+c-w-h = move to left pane
+c-w-l = move to left pane
+
+lsp & ts:
+
+LspInstall <lsp_name> = install new lsp server
+TSIntall <ts_name> = install new tree sitter
+TSUpdate = update tree sitter
+
+packer:
+
+PackerSync = sync new conf changes / update plugins
+PackerInstall = install new missing plugins from conf
+
+telescope:
+
+<leader>ff = find file
+<leader>fg = live grep
+<leader>fb = find buffers
