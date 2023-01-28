@@ -1,0 +1,42 @@
+# highly based on https://github.com/wadackel/vim-dogrun <3
+# missing html tag and some others things. but it mostly cover all of it, with some modifications
+inherits = "base16_transparent"
+
+"keyword" = { fg = "138" }
+"attribute" = {fg = "104"}
+"type" = {fg = "144"}
+"namespace" = {fg = "146"}
+"type.builtin" = {fg = "144"}
+"constructor" = {fg = "146"}
+"constant" = {fg = "144"}
+"constant.numeric" = {fg = "79"}
+"constant.builtin" = {fg = "79"}
+"string" = {fg = "108"}
+"comment" = {fg = "60", modifiers = ["italic"]}
+"variable" = {fg = "146"}
+"variable.builtin" = {fg = "138", modifiers = ["italic"]}
+"ponctuation.delimiter" = {fg = "103"}
+"ponctuation.special" = {fg ="133"}
+"function" = {fg = "104"}
+"function.macro" = {fg = "104"}
+"tag" = {fg = "146"}
+"variable.other.member" = {fg = "138", modifiers = ["bold"]}
+"punctuation" = {fg = "145"}
+"operator" = {fg = "145"}
+
+"diagnostic.error" = {fg = "167", modifiers = ["underlined"]}
+"error" = {fg = "167", modifiers = ["bold"]}
+"diagnostic.warning" = {fg = "138", modifiers = ["underlined"]}
+"warning" = {fg = "138", modifiers = ["bold"]}
+"diagnostic.info" = {fg = "79", modifiers = ["underlined"]}
+"info" = {fg = "79", modifiers = ["bold"]}
+
+"ui.cursor.match" = {fg = "144", modifiers = ["bold"]}
+"ui.linenr" = {fg = "237"}
+"ui.linenr.selected" = {fg = "61"}
+"ui.text" = {fg = "146"}
+"ui.statusline" = {fg = "146"}
+"ui.window" = {fg = "146"}
+"ui.popup" = {fg = "146"}
+"ui.menu" = {fg = "146"}
+"ui.background" = {fg = "146"}

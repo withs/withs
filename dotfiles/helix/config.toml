@@ -1,0 +1,20 @@
+theme = "chien_t"
+
+[editor]
+line-number = "relative"
+true-color = false
+bufferline = "multiple"
+
+[editor.cursor-shape]
+insert = "underline"
+normal = "bar"
+select = "bar"
+
+[editor.indent-guides]
+render = true
+character = "┊"
+skip-levels = 0
+
+[editor.file-picker]
+ignore = false
+git-ignore = false
