@@ -1,0 +1,9 @@
+-----BEGIN XMR SIGNED MESSAGE-----
+as of Mon 26 Jun 2023
+
+87TjFt7DZqsFoeGYgTTAkRah3sBMkzpyLafK9iQCbSKXC7krKx31ZUCJvEbBsqht8ieUHzn5iqMsF4L9dcmaJojSHMoSyTj
+is the public address of fleur.is
+-----BEGIN XMR SIGNATURE-----
+
+SigV2DcR6uJAVqySZbFCBN6xHY35aR9VMu6QrMX8JqXw27eW8jC8U41XGP2p5udRrukPvydQ7FPVVtVFSWJonmDH36qe3
+-----END XMR SIGNATURE-----
