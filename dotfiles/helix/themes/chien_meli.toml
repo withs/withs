@@ -1,0 +1,21 @@
+inherits = "mellow"
+
+
+type = { modifiers = ["italic"], fg = "bright_blue" }
+
+
+"ui.background" = { fg = "white"}
+"ui.background.separator" = { fg = "gray" }
+"ui.menu" = { fg = "white" }
+"ui.menu.selected" = { modifiers = ["reversed"] }
+"ui.menu.scroll" = { fg = "light-gray" }
+"ui.popup" = { fg = "white" }
+ "ui.window" = { fg = "white" }
+ "ui.selection" = { bg = "gray" }
+ "ui.statusline" = { fg = "white" }
+"ui.cursor" = { modifiers = ["reversed"] }
+"ui.cursor.match" = { fg = "light-yellow", underline = { color = "light-yellow", style = "line" } }
+"ui.cursor.primary" = { modifiers = ["reversed", "slow_blink"] }
+"ui.cursor.secondary" = { modifiers = ["reversed"] }
+ "ui.virtual.ruler" = { bg = "gray" }
+"ui.virtual.indent-guide" = "gray"

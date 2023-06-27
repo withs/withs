@@ -1,0 +1,12 @@
+[[language]]
+name = "verilog"
+file-types = []
+
+[[language]]
+name = "java"
+scope = "source.java"
+injection-regex = "java"
+file-types = ["java"]
+roots = ["pom.xml", "build.gradle", "build.gradle.kts", "settings.gradle"]
+language-servers = [ "jdtls" ]
+indent = { tab-width = 4, unit = "    " }

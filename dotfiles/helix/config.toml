@@ -1,8 +1,8 @@
-theme = "chien_t"
+theme = "chien_meli"
 
 [editor]
 line-number = "relative"
-true-color = false
+true-color = true
 bufferline = "multiple"
 
 [editor.cursor-shape]
@@ -12,7 +12,7 @@ select = "bar"
 
 [editor.indent-guides]
 render = true
-character = "┊"
+character = "│"
 skip-levels = 0
 
 [editor.file-picker]
